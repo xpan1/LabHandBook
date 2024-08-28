@@ -1,4 +1,4 @@
-# group-handbook-template
+# Xue Handbook
 
 <!-- badges: start -->
 
